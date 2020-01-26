@@ -96,19 +96,7 @@ function ExamplesNavbar() {
           isOpen={navbarCollapse}
         >
           <Nav navbar>
-            <NavItem>
-              <NavLink to="/index" tag={Link}>
-                <i className="nc-icon nc-layout-11" /> Solutions
-              </NavLink>
-            </NavItem>
-            <NavItem>
-              <NavLink
-                href="#"
-                target="_blank"
-              >
-                <i className="nc-icon nc-book-bookmark" /> Contact Us
-              </NavLink>
-            </NavItem>
+          
             <NavItem>
               <NavLink
                 data-placement="bottom"

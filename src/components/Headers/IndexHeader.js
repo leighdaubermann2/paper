@@ -60,19 +60,7 @@ function IndexHeader() {
             backgroundImage: "url(" + require("assets/img/clouds.png") + ")"
           }}
         />
-        <h6 className="category category-absolute">
-          Designed and coded by{" "}
-          <a
-            href="https://www.qsudo.com"
-            target="_blank"
-          >
-            <img
-              alt="()qsudo."
-              className="qsudo-logo"
-              src={require("assets/img/qsudo_logo_4.png")}
-            />
-          </a>
-        </h6>
+        
       </div>
     </>
   );

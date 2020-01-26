@@ -54,8 +54,6 @@ function Index() {
       <IndexHeader />
       <div className="main">
       <SectionDownload />
-      <SectionDark />
-      <SectionExamples />
       <DemoFooter />
       </div>
     </>

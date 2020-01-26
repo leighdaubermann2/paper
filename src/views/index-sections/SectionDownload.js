@@ -31,9 +31,9 @@ function SectionDownload() {
           <Row>
             <Col className="ml-auto mr-auto text-center" md="8">
               <h2 className="title">Do you like what you see?</h2>
-              <p className="description">
-                Cause if you do, we design and develop one just for you.
-              </p>
+              <h3 className="description">
+                Cause if you do, we can design and develop one just for you.
+              </h3>
             </Col>
             <Col className="ml-auto mr-auto download-area" md="5">
               <Button

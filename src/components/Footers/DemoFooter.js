@@ -37,28 +37,12 @@ function DemoFooter() {
                   qsudo
                 </a>
               </li>
-              <li>
-                <a
-                  href="#"
-                  target="_blank"
-                >
-                  Blog
-                </a>
-              </li>
-              <li>
-                <a
-                  href="#"
-                  target="_blank"
-                >
-                  Contact
-                </a>
-              </li>
             </ul>
           </nav>
           <div className="credits ml-auto">
             <span className="copyright">
               © {new Date().getFullYear()}, made with{" "}
-              <i className="fa fa-heart heart" /> by qsudo
+              <i className="fa fa-heart heart" /> by Leigh Daubermann from qsudo
             </span>
           </div>
         </Row>
