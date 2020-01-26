@@ -146,22 +146,7 @@ function IndexNavbar() {
               </NavLink>
             </NavItem>
 
-            <NavItem>
-              <NavLink
-                href="#"
-                target="_blank"
-              >
-                <i className="nc-icon nc-layout-11" /> Solutions
-              </NavLink>
-            </NavItem>
-            <NavItem>
-              <NavLink
-                href="#"
-                target="_blank"
-              >
-                <i className="nc-icon nc-book-bookmark" /> Contact Us
-              </NavLink>
-            </NavItem>
+
           </Nav>
         </Collapse>
       </Container>
