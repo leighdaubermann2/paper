@@ -38,7 +38,7 @@ function IndexHeader() {
         <div className="content-center">
           <Container>
             <div className="title-brand">
-              <h1 className="presentation-title">currently being developed</h1>
+              <h2 className="presentation-title">Hello</h2>
               <div className="fog-low">
                 <img alt="..." src={require("assets/img/fog-low.png")} />
               </div>
@@ -47,8 +47,11 @@ function IndexHeader() {
               </div>
             </div>
             <h2 className="presentation-subtitle text-center">
-              Please check back soon!
+              Our website is currently undergoing a makeover.
             </h2>
+            <p className="presentation-subtitle text-center">
+              Please check back soon.
+            </p>
           </Container>
         </div>
         <div

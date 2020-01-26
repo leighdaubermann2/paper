@@ -112,7 +112,7 @@ function ExamplesNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="#"
+                href="https://twitter.com/_qsudo"
                 target="_blank"
                 title="Follow us on Twitter"
               >
@@ -123,7 +123,7 @@ function ExamplesNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="#"
+                href="https://www.facebook.com/qsudo/"
                 target="_blank"
                 title="Like us on Facebook"
               >
@@ -134,7 +134,7 @@ function ExamplesNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="#"
+                href="https://www.instagram.com/qsudo_/?hl=en"
                 target="_blank"
                 title="Follow us on Instagram"
               >
@@ -145,12 +145,23 @@ function ExamplesNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="#"
+                href="https://github.com/qsudo"
                 target="_blank"
                 title="Star on GitHub"
               >
                 <i className="fa fa-github" />
                 <p className="d-lg-none">GitHub</p>
+              </NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink
+                data-placement="bottom"
+                href="https://www.linkedin.com/company/qsudo"
+                target="_blank"
+                title="Follow us on LinkedIn"
+              >
+                <i className="fa fa-linkedin" />
+                <p className="d-lg-none">LinkedIn</p>
               </NavLink>
             </NavItem>
           </Nav>
