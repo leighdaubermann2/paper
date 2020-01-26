@@ -47,7 +47,7 @@ function IndexHeader() {
               </div>
             </div>
             <h2 className="presentation-subtitle text-center">
-              Please check back sooner!
+              Please check back soon!
             </h2>
           </Container>
         </div>
@@ -64,7 +64,7 @@ function IndexHeader() {
             target="_blank"
           >
             <img
-              alt="..."
+              alt="()qsudo."
               className="qsudo-logo"
               src={require("assets/img/qsudo_logo_4.png")}
             />

@@ -73,11 +73,10 @@ function ExamplesNavbar() {
           <NavbarBrand
             data-placement="bottom"
             to="/index"
-            target="_blank"
-            title="Coded by Creative Tim"
+            title="qsudo solutions"
             tag={Link}
           >
-            Paper Kit 2
+            qsudo
           </NavbarBrand>
           <button
             aria-expanded={navbarCollapse}
@@ -99,21 +98,21 @@ function ExamplesNavbar() {
           <Nav navbar>
             <NavItem>
               <NavLink to="/index" tag={Link}>
-                <i className="nc-icon nc-layout-11" /> Components
+                <i className="nc-icon nc-layout-11" /> Solutions
               </NavLink>
             </NavItem>
             <NavItem>
               <NavLink
-                href="https://demos.creative-tim.com/paper-kit-react/#/documentation?ref=pkr-examples-navbar"
+                href="#"
                 target="_blank"
               >
-                <i className="nc-icon nc-book-bookmark" /> Documentation
+                <i className="nc-icon nc-book-bookmark" /> Contact Us
               </NavLink>
             </NavItem>
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="https://twitter.com/CreativeTim?ref=creativetim"
+                href="#"
                 target="_blank"
                 title="Follow us on Twitter"
               >
@@ -124,7 +123,7 @@ function ExamplesNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="https://www.facebook.com/CreativeTim?ref=creativetim"
+                href="#"
                 target="_blank"
                 title="Like us on Facebook"
               >
@@ -135,7 +134,7 @@ function ExamplesNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="https://www.instagram.com/CreativeTimOfficial?ref=creativetim"
+                href="#"
                 target="_blank"
                 title="Follow us on Instagram"
               >
@@ -146,7 +145,7 @@ function ExamplesNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="https://www.github.com/CreativeTimOfficial?ref=creativetim"
+                href="#"
                 target="_blank"
                 title="Star on GitHub"
               >
