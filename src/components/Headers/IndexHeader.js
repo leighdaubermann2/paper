@@ -47,7 +47,7 @@ function IndexHeader() {
               </div>
             </div>
             <h2 className="presentation-subtitle text-center">
-              Please check back soon!
+              Please check back sooner!
             </h2>
           </Container>
         </div>
@@ -60,13 +60,13 @@ function IndexHeader() {
         <h6 className="category category-absolute">
           Designed and coded by{" "}
           <a
-            href="https://www.creative-tim.com?ref=pkr-index-page"
+            href="https://www.qsudo.com"
             target="_blank"
           >
             <img
               alt="..."
-              className="creative-tim-logo"
-              src={require("assets/img/creative-tim-white-slim2.png")}
+              className="qsudo-logo"
+              src={require("assets/img/qsudo_logo_4.png")}
             />
           </a>
         </h6>
