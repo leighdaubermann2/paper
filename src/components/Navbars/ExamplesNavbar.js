@@ -76,7 +76,7 @@ function ExamplesNavbar() {
             title="qsudo solutions"
             tag={Link}
           >
-            qsudo
+            <img alt="..." src={require("assets/img/qsudo_logo_1.png")} />
           </NavbarBrand>
           <button
             aria-expanded={navbarCollapse}
